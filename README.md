@@ -1,6 +1,7 @@
-# FFCS
+# Recovery of Fusion Frame Structured Signal via Compressed Sensing 
 
 This repository contains some accompanying files used for the paper 
+
 Roza Aceska, Jean-Luc Bouchot, and Shidong Li,
 **Local sparsity and recovery of fusion frames structured signals**
 _arXiv:1604.00424_
