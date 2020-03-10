@@ -1,0 +1,24 @@
+############
+# autosave files
+*.asv
+
+############
+# matlab data
+*.mat 
+
+############
+# figures
+*.eps
+*.jpg
+*.png
+*.fig
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
