@@ -12,6 +12,7 @@
 *.jpg
 *.png
 *.fig
+*.tif
 
 # OS generated files #
 ######################
